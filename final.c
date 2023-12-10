@@ -1,8 +1,6 @@
 /* Assignment 2
  * COMP10002 Foundations of Algorithms, Semester 1, 2021
  * 
- * Full Name: Gia Han Ly       
- * Student Number:  1074109
  * Date:  25/05/2021
  */
 
